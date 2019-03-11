@@ -5,3 +5,4 @@
 ![sss](https://raw.githubusercontent.com/yiwei151/PageTurnFunction/master/1.png)
 
 
+![ddd](https://raw.githubusercontent.com/yiwei151/PageTurnFunction/master/2.png)
